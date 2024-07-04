@@ -1,7 +1,7 @@
 # Hello there 👋 I'm Thaynara Lobo
 
 - 🔥 Sênior Software Quality Assurance Analyst.
-- 🔭 I’m currently working at [Stefanini Group](https://stefanini.com/pt-br)
+- 🔭 I’m currently working at [Energisa]([https://www.energisa.com.br/])
 - 💛 Passionate about the game and mobile development.
 - ☕ Caffeinated
 - 🦅 Fun fact: My house is Ravenclaw
