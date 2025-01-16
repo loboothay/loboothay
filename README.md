@@ -1,7 +1,7 @@
 # Hello there 👋 I'm Thaynara Lobo
 
 - 🔥 Sênior Software Quality Assurance Analyst.
-- 🔭 I’m currently working at [Energisa]([https://www.energisa.com.br/])
+- 🔭 I’m currently working at [Globant]([https://www.globant.com/pt-br?utm_source=google&utm_medium=cpc&utm_campaign=a:mkt_r:lat_bo:crp_cn:bt-campaigns_s:google_m:cpc_o:ldg_bi:cpc_f:tx_y:2023_id:100018_ac:ao_t:brazil&gad_source=1&gclid=Cj0KCQiA-aK8BhCDARIsAL_-H9nl2zgBy3NAZEM-pGSt4aIdE10YfhZja3VMY258l5idZWNBZW2VrpcaAhj_EALw_wcB])
 - 💛 Passionate about the game and mobile development.
 - ☕ Caffeinated
 - 🦅 Fun fact: My house is Ravenclaw
